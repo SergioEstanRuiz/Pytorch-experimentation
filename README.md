@@ -7,5 +7,5 @@ A series of Jupyter notebook explaining the basics of Pytorch, with some sporadi
 
 Notebooks to come:
 5. *Transformer_for_Time_Series.ipynb* : We start looking at models based on the transformer architecture.
-6. *Introduction_to_NLP.ipynb* : Still in the air. We won't be training LLM for scratch but might look at "applicable" skills like LLM fine-tuning. 
+6. *Introduction_to_NLP.ipynb* : Still in the air. We won't be training LLM from scratch but might look at "applicable" skills like LLM fine-tuning. 
 7. *Image_generation.ipynb* : Still in the air. We wish to give an introduction to the three main image-generation models: VAEs, GANs and diffusion models. 
